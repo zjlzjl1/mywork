@@ -9,11 +9,7 @@
 .page_all{
 	 width: 100%;
 	  margin:0 auto;
-	  display:table
 	  	}
-.all_div{display:table-cell;
-			vertical-align: middle;}
-
 body{margin: 0;
   padding: 0;
   font-family:"Microsoft YaHei";
